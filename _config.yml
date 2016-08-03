@@ -1,0 +1,14 @@
+layout_spectrum: 0.57609598711133
+typography_spectrum: 0.18614626838825643
+color:
+  brandStrength: 0.29818033217452466
+  lightness: 0.09232258098199964
+  saturation: 0.5336450682953
+  rhythmicContrast: 0.38099122466519475
+  brandColors:
+    - '#3E454C'
+    - '#2185C5'
+    - '#7ECEFD'
+    - '#FFF6E5'
+    - '#FF7F66'
+name: KSG
